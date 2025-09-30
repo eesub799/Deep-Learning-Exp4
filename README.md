@@ -32,8 +32,8 @@ STEP 9: We demonstrate the model's practical use by randomly selecting and testi
 
 ## PROGRAM
 
-### Name: Adhithya K
-### Register Number: 2305002001
+### Name: Shaik Eesub
+### Register Number: 2305002021
 
 ``` python
 import tensorflow as tf
